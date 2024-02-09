@@ -1,6 +1,7 @@
 # CovidData-Exploration--SQL
 **Overview**
 This project aims to explore and analyze COVID-19 data to gain insights into the impact of the pandemic on various aspects such as infection rates, healthcare systems, and socio-economic factors. By leveraging SQL queries, we examine datasets to uncover trends, patterns, and correlations that can inform decision-making and public health strategies.
+
 **Data Sources📈**
 Analyzing data sources from **https://ourworldindata.org/covid-deaths** to understand the progression and impact of COVID-19 across different regions and timeframes.
 
