@@ -25,6 +25,7 @@ Leveraging SQL's functionalities for aggregations joins, and statistical analysi
 **Directory Structure**
 /data: Contains raw data files used in the analysis.
 /scripts: SQL scripts for data extraction, transformation, and analysis.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Setup Instructions**
 Clone the repository to your local machine.
